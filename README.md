@@ -1,4 +1,4 @@
-# Hotel Booking System - C++ Project
+# Hotel Booking System 
 
 This project is a **Hotel Booking System** implemented in C++. It allows users to view available rooms, book a room for a specified number of nights, cancel a room booking, and view all rooms (whether booked or available).
 
